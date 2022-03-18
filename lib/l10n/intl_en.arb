@@ -1,1 +1,13 @@
-{}
+{
+  "repeat_sms": "Отправить код повторно",
+  "sms_code_repeat_time": "Повторная отправка кода возможна через {seconds} секунд",
+  "change_phone_number": "Изменить номер",
+  "enter_code": "Введите код",
+  "enter_code_msg": "Мы отправили код в SMS-сообщении на номер: {number}",
+  "next": "Продолжить",
+  "enter_phone": "Введите Ваш номер телефона",
+  "enter_phone_msg": "Мы отправим код на указанный номер для проверки телефона",
+  "unknown_error": "unknown_error",
+  "theme_dark": "Тёмная",
+  "theme_light": "Светлая"
+}
